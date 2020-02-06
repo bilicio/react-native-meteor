@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bilicio/react-native-meteor.git"
+    "url": "git+https://github.com/bilicio/react-native-meteor"
   },
   "keywords": [
     "react-component",
